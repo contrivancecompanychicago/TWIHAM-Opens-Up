@@ -47,4 +47,4 @@ with block:
 
 #   submit.click(chat, inputs=[message], outputs=[chatbot])
    
-block.launch(debug=True)
+block.launch(share=True)
